@@ -1,5 +1,46 @@
 {
     "Index": {
       "title": "Hello world"
+    },
+    "AUTH": {
+      "EMAIL": "Email",
+      "PASSWORD": "Password",
+      "USERNAME": "Username",
+      "SIGN_IN": {
+        "TITLE": "Sign in",
+        "DESC": "Welcome back to the Sync Bridges",
+        "SUBMIT_BTN": "Sign in",
+        "FORGOT_PASSWORD": "Forgot password?",
+        "DONT_HAVE_ACCOUNT": {
+          "FIRST": "Don't have an account?",
+          "SECOND": "Sign up"
+        },
+        "PROVIDERS": {
+          "GOOGLE": "Sign in with Google",
+          "APPLE": "Sign in with Apple",
+          "GITHUB": "Sign in with Github"
+        }
+      },
+      "SIGN_Up": {
+        "TITLE": "Sign up",
+        "DESC": "Create your Account with the Sync Bridges",
+        "SUBMIT_BTN": "Sign up",
+        "FORGOT_PASSWORD": "Forgot password?",
+        "HAVE_ACCOUNT": {
+          "FIRST": "Already have a Account?",
+          "SECOND": "Sign in"
+        },
+        "TERMS": {
+          "FIRST": "By signing up, you agree to the",
+          "SECOND": "Terms of Service",
+          "THIRD": "and",
+          "FOURTH": "Privacy Policy"
+        },
+        "PROVIDERS": {
+          "GOOGLE": "Sign up with Google",
+          "APPLE": "Sign up with Apple",
+          "GITHUB": "Sign up with Github"
+        }
+      }
     }
   }
